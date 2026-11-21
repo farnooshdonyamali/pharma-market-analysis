@@ -207,3 +207,5 @@ ModuleNotFoundError: statsmodels	فقط برای forecast_monthly لازم اس�
 [ ] کالیبراسیون سناریو با تاریخچه‌ی تغییر قیمت و فروش.
 [ ] داده‌ی تکمیلی: نسخه/بیمه، فصل، قیمت رقبا و نرخ ارز برای بهبود مدل فروش.
 [ ] داشبورد تعاملی برای فهرست پایش و سناریوها.
+# pharma-market-analysis
+Cross-sectional analysis of drug sales: anomaly detection, product segmentation, supply-fragility index and inflation scenarios.
